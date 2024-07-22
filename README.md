@@ -1,0 +1,2 @@
+# .netPractice
+My C# learning
